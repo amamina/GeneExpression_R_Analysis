@@ -1,4 +1,4 @@
-# Gene Expression Analysis (GEO Reproduction Study)
+# Gene Expression Analysis on Microarray Data
 Differential gene expression analysis using R on GEO datasets to identify highly dysregulated genes between case and control samples.
 This project reproduces and explores a differential gene expression analysis workflow provided in the Gene Expression Omnibus.
 This project involves the analysis of gene expression data retrieved from the NCBI Gene Expression Omnibus (GEO) database using R.  
@@ -25,3 +25,6 @@ Understood and visualized each step of the analysis, including:
 The base R script was provided by GEO as part of their analysis tools. All interpretations, visualizations, and explanations are my own.
 Reproduced and explored GEO differential expression workflow to understand the computational steps behind microarray/RNA-seq analysis.
 This project reflects my growing expertise in bioinformatics, data analysis, and molecular interpretation using real-world genomic datasets.
+
+# Author
+Reproduced, documented, and interpreted by Amina.
