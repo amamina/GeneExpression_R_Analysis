@@ -1,0 +1,29 @@
+Dataset: GSE10500
+Source: NCBI GEO
+Platform: GPL8300
+
+Study:
+Gene expression profiling of rheumatoid arthritis synovial macrophages.
+
+Data acquisition:
+Raw expression data retrieved directly from GEO using GEOquery in R.
+
+Sample groups:
+- Rheumatoid arthritis (RA): 5 samples
+- Healthy controls: 3 samples
+
+Sample annotation:
+
+RA Samples:
+GSM265020  | RA patient 9252
+GSM265036  | RA patient 121102
+GSM265361  | RA patient 2-21
+GSM265363  | RA patient 1032
+GSM265366  | RA patient 1152
+
+Control Samples:
+GSM265436  | Normal donor XH1
+GSM265439  | Normal donor XCH1
+GSM265445  | Normal donor TA1
+
+Rheumatoid arthritis patients included in the study had not received treatment at the time of sample collection.
