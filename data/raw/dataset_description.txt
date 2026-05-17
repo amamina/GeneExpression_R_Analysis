@@ -26,4 +26,8 @@ GSM265436  | Normal donor XH1
 GSM265439  | Normal donor XCH1
 GSM265445  | Normal donor TA1
 
+Group assignment performed manually for limma design matrix construction.
+gsms <- "00000111"
+
+Clinical Information:
 Rheumatoid arthritis patients included in the study had not received treatment at the time of sample collection.
