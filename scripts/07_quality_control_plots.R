@@ -7,8 +7,8 @@ png("results/plots/pvalue_histogram.png", width = 800, height = 600)
 
 hist(
   tT$adj.P.Val,
-  col = "grey",
-  border = "white",
+  col = "steelblue",
+  border = "black",
   xlab = "Adjusted P-value",
   ylab = "Number of genes",
   main = "Distribution of Adjusted P-values"
