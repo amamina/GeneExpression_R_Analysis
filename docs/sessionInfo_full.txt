@@ -10,9 +10,6 @@ locale:
 [3] LC_MONETARY=English_United States.utf8 LC_NUMERIC=C                          
 [5] LC_TIME=English_United States.utf8    
 
-time zone: Asia/Karachi
-tzcode source: internal
-
 attached base packages:
 [1] stats4    stats     graphics  grDevices utils     datasets  methods   base     
 
