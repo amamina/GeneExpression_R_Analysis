@@ -27,4 +27,4 @@ Reproduced and explored GEO differential expression workflow to understand the c
 This project reflects my growing expertise in bioinformatics, data analysis, and molecular interpretation using real-world genomic datasets.
 
 # Author
-Reproduced, documented, and interpreted by Amina.
+Reproduced, documented, and interpreted by Amina Ayub
