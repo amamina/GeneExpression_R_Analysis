@@ -25,3 +25,5 @@ tT <- subset(
     "Gene.title"
   )
 )
+
+View(tT)
