@@ -38,5 +38,7 @@ Reproduced, documented, and interpreted by Amina Ayub.
 
 # References	
 Yarilina A, Park-Min KH, Antoniv T, Hu X et al. TNF activates an IRF1-dependent autocrine loop leading to sustained expression of chemokines and STAT1-dependent type I interferon-response genes. Nat Immunol 2008 Apr;9(4):378-87. PMID: 18345002.
+
 Ritchie, M. E., Phipson, B., Wu, D. I., Hu, Y., Law, C. W., Shi, W., & Smyth, G. K. (2015). limma powers differential expression analyses for RNA-sequencing and microarray studies. Nucleic acids research, 43(7), e47-e47.
+
 Davis, S., & Meltzer, P. S. (2007). GEOquery: a bridge between the Gene Expression Omnibus (GEO) and BioConductor. Bioinformatics, 23(14), 1846-1847.
