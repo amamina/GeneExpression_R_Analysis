@@ -1,5 +1,5 @@
 # Gene Expression Analysis on Microarray Data
-Differential gene expression analysis using R on GEO dataset "GSE10500", to identify highly dysregulated genes between case and control samples.
+Differential gene expression analysis using R on GEO data to identify highly dysregulated genes between case and control samples.
 This project reproduces and explores a differential gene expression analysis workflow provided in the Gene Expression Omnibus.
 This project involves the analysis of gene expression data retrieved from the NCBI Gene Expression Omnibus (GEO) database using R.  
 The main objective was to identify significantly dysregulated genes between case and control samples in a selected dataset.  
