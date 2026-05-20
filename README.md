@@ -13,7 +13,7 @@ By applying statistical and visualization approaches (such as volcano plots and 
 - PMID: 18345002
 
 # Key Tools and Packages:
-- R (limma, GEOquery,Biobase, ggplot2, maptools)
+- R (limma, GEOquery,Biobase, ggplot2, maptools, clusterProfiler)
 - GEO database (NCBI)
 - Differential expression and visualization techniques
 
@@ -26,6 +26,7 @@ Understood and visualized each step of the analysis, including:
 - Data normalization
 - Differential expression (using limma/DESeq2)
 - Interpreted the most dysregulated genes between case and control groups
+- biological processes (GO) and pathways (KEGG) enrichement analysis
 - Visualize significant results through plots  
 
 # Original Code Source
