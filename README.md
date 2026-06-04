@@ -29,58 +29,8 @@ Understood and visualized each step of the analysis, including:
 - biological processes (GO) and pathways (KEGG) enrichement analysis
 - Visualize significant results through plots
 
+![Volcano Plot](results/plots/volcano_plot.png)
 
-# Results
-
-## Quality Control
-
-### Box and Whisker Plot
-![Box and Whisker Plot](box&whisker_plot.png)
-
-### Expression Distribution
-![Expression Distribution](expression distribution_plot.png)
-
-### Histogram
-![Histogram](histogram.png)
-
-### QQ Plot
-![QQ Plot](qq plot.png)
-
----
-
-## Differential Expression Analysis
-
-### Volcano Plot
-![Volcano Plot](volcano_plot.png)
-
-### MD Plot
-![MD Plot](md_plot.png)
-
-### Venn Diagram
-![Venn Diagram](venn_diagram.png)
-
----
-
-## Functional Enrichment
-
-### Upregulated Genes
-![Upregulated Genes](dotplot_up reg genes.png)
-
-### Downregulated Genes
-![Downregulated Genes](dotplot_down reg genes.png)
-
-### Upregulated Pathways
-![Upregulated Pathways](barplot_up reg.png)
-
-### Downregulated Pathways
-![Downregulated Pathways](barplot_down reg.png)
-
----
-
-## Sample Clustering
-
-### UMAP
-![UMAP](Umap.png)
 
 # Original Code Source
 The base R script was provided by GEO as part of their analysis tools. All interpretations, visualizations, and explanations are my own.
