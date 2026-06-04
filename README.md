@@ -29,8 +29,7 @@ Understood and visualized each step of the analysis, including:
 - biological processes (GO) and pathways (KEGG) enrichement analysis
 - Visualize significant results through plots
 
-![Volcano Plot](results/plots/volcano_plot.png)
-
+<img src="results/plots/volcano_plot.png" width="100">
 
 # Original Code Source
 The base R script was provided by GEO as part of their analysis tools. All interpretations, visualizations, and explanations are my own.
