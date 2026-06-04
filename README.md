@@ -29,8 +29,8 @@ Understood and visualized each step of the analysis, including:
 - biological processes (GO) and pathways (KEGG) enrichement analysis
 - Visualize significant results through plots
 
-<img src="results/plots/volcano_plot.png" width="200">
-# Results
+
+## Results
 
 ## Quality Control
 
