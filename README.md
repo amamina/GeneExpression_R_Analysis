@@ -30,6 +30,94 @@ Understood and visualized each step of the analysis, including:
 - Visualize significant results through plots
 
 <img src="results/plots/volcano_plot.png" width="200">
+# Results
+
+## Quality Control
+
+### Box and Whisker Plot
+
+<p align="center">
+  <img src="results/plots/box&whisker_plot.png" width="200">
+</p>
+
+### Expression Distribution
+
+<p align="center">
+  <img src="results/plots/expression distribution_plot.png" width="200">
+</p>
+
+### Histogram
+
+<p align="center">
+  <img src="results/plots/histogram.png" width="200">
+</p>
+
+### QQ Plot
+
+<p align="center">
+  <img src="results/plots/qq plot.png" width="200">
+</p>
+
+---
+
+## Differential Expression Analysis
+
+### Volcano Plot
+
+<p align="center">
+  <img src="results/plots/volcano_plot.png" width="200">
+</p>
+
+### MD Plot
+
+<p align="center">
+  <img src="results/plots/md_plot.png" width="200">
+</p>
+
+### Venn Diagram
+
+<p align="center">
+  <img src="results/plots/venn_diagram.png" width="200">
+</p>
+
+---
+
+## Functional Enrichment
+
+### Upregulated Genes
+
+<p align="center">
+  <img src="results/plots/dotplot_up reg genes.png" width="200">
+</p>
+
+### Downregulated Genes
+
+<p align="center">
+  <img src="results/plots/dotplot_down reg genes.png" width="200">
+</p>
+
+### Upregulated Pathways
+
+<p align="center">
+  <img src="results/plots/barplot_up reg.png" width="200">
+</p>
+
+### Downregulated Pathways
+
+<p align="center">
+  <img src="results/plots/barplot_down reg.png" width="200">
+</p>
+
+---
+
+## Sample Clustering
+
+### UMAP
+
+<p align="center">
+  <img src="results/plots/Umap.png" width="200">
+</p>
+
 
 # Original Code Source
 The base R script was provided by GEO as part of their analysis tools. All interpretations, visualizations, and explanations are my own.
