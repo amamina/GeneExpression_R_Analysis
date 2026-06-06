@@ -1,0 +1,19 @@
+### Processed Data (GSE10500)
+
+**Input:** Raw GEO expression dataset  
+**Output:** Normalized expression matrix ready for differential expression analysis  
+
+#### Preprocessing
+- Extracted expression matrix using `exprs(gset)`
+- Checked intensity distribution (quantile-based QC)
+- Applied log2 transformation (data was non-log scale)
+- Removed samples with missing values
+
+#### Experimental Design
+- Defined phenotype groups: **case vs control**
+- Constructed design matrix using `limma`
+
+#### Final Outputs
+- Log2-normalized expression matrix
+- Group-labeled sample metadata
+- Design matrix for linear modeling
